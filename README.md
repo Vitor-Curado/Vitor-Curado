@@ -14,7 +14,6 @@ I enjoy working close to the metal when needed, automating infrastructure, and c
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge\&logo=podman\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 ![Woodpecker CI](https://img.shields.io/badge/Woodpecker-CI-blue?style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
 ![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge)
 ![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge)
