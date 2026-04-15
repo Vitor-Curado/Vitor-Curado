@@ -15,20 +15,12 @@ I'm a software engineer based in Canada.
 
 ## 🛠️ Tech Stack
 
-This is my stack I'm currently working with:
-
----
-
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge\&logo=fedora\&logoColor=white)
 ![systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge\&logo=linux\&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge\&logo=podman\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 ![Woodpecker CI](https://img.shields.io/badge/Woodpecker-CI-blue?style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
-![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge)
-![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge)
-![SQLx](https://img.shields.io/badge/SQLx-000000?style=for-the-badge)
-![Askama](https://img.shields.io/badge/Askama-000000?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
