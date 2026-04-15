@@ -16,6 +16,9 @@ I'm a software engineer based in Canada.
 ## 🛠️ Tech Stack
 
 This is my stack I'm currently working with:
+
+---
+
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge\&logo=fedora\&logoColor=white)
 ![systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge\&logo=linux\&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge\&logo=podman\&logoColor=white)
