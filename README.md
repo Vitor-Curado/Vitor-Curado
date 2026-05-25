@@ -1,22 +1,22 @@
 # 👋 Vitor Curado
 
-I'm a software engineer based in Canada.
+Software engineer based in Canada with hands-on experience building and deploying real-world applications.
 
-* **🔭 I’m currently working on** building a web platform
-* **🌱 I’m currently learning** how to implement and ship postgres to prod
-* **👯 I’m looking to collaborate on** anything rust-based
-* **🤔 I’m looking for** a software engineering job
-* **💬 Ask me about** anything
-* **⚡ Fun fact:** I don't know what I'm doing
-* **🥹 What do I like about building software:** performance improvements, code quality
-* **📫 How to reach me:** vitorbmcurado@proton.me
+**📫 Email:** [vitorbmcurado@proton.me](mailto:vitorbmcurado@proton.me)
+
+**⚙️ Core stack:** Rust (Axum, Tokio, Tower, SQLx, Askama) · PostgreSQL (PgBouncer) · Podman · Nginx · Woodpecker CI · Fedora Linux · Git · Bash · SQL
+**🤔 Currently exploring:** Yew · Dragonfly · VictoriaMetrics · Grafana
+**🧩 Backend:** Go · Python (Flask, Jinja2) · Java (Spring, Hibernate, JUnit) · Node.js / Express
+**🎨 Frontend:** React · TypeScript · Tailwind · Bootstrap · HTML · CSS
+**🛠 Infrastructure & DevOps:** GitHub Actions · GitLab CI · Jenkins · Kubernetes · Redis · Prometheus
+**🗄 Databases:** MySQL · MongoDB · SQLite · Neo4j
+**⚡ Systems & low-level:** C · C++ · C# · WASM · GraphQL · Kotlin
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge\&logo=fedora\&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge\&logo=linux\&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge\&logo=podman\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 ![Woodpecker CI](https://img.shields.io/badge/Woodpecker-CI-blue?style=for-the-badge)
