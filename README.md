@@ -2,15 +2,14 @@
 
 Software engineer based in Canada with hands-on experience building and deploying real-world applications.
 
-**📫 Email:** [vitorbmcurado@proton.me](mailto:vitorbmcurado@proton.me)
-
-**⚙️ Core stack:** Rust (Axum, Tokio, Tower, SQLx, Askama) · PostgreSQL (PgBouncer) · Podman · Nginx · Woodpecker CI · Fedora Linux · Git · Bash · SQL
-**🤔 Currently exploring:** Yew · Dragonfly · VictoriaMetrics · Grafana
-**🧩 Backend:** Go · Python (Flask, Jinja2) · Java (Spring, Hibernate, JUnit) · Node.js / Express
-**🎨 Frontend:** React · TypeScript · Tailwind · Bootstrap · HTML · CSS
-**🛠 Infrastructure & DevOps:** GitHub Actions · GitLab CI · Jenkins · Kubernetes · Redis · Prometheus
-**🗄 Databases:** MySQL · MongoDB · SQLite · Neo4j
-**⚡ Systems & low-level:** C · C++ · C# · WASM · GraphQL · Kotlin
+* **📫 Email:** [vitorbmcurado@proton.me](mailto:vitorbmcurado@proton.me)
+* **⚙️ Core stack:** Rust (Axum, Tokio, Tower, SQLx, Askama) · PostgreSQL (PgBouncer) · Podman · Nginx · Woodpecker CI · Fedora Linux · Git · Bash · SQL
+* **🤔 Currently exploring:** Yew · Dragonfly · VictoriaMetrics · Grafana
+* **🧩 Backend:** Go · Python (Flask, Jinja2) · Java (Spring, Hibernate, JUnit) · Node.js / Express
+* **🎨 Frontend:** React · TypeScript · Tailwind · Bootstrap · HTML · CSS
+* **🛠 Infrastructure & DevOps:** GitHub Actions · GitLab CI · Jenkins · Kubernetes · Redis · Prometheus
+* **🗄 Databases:** MySQL · MongoDB · SQLite · Neo4j
+* **⚡ Systems & low-level:** C · C++ · C# · WASM · GraphQL · Kotlin
 
 ---
 
