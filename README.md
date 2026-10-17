@@ -1,13 +1,16 @@
 # 👋 Vitor Curado
 
-* **📜 Languages:** Rust, TypeScript/JavaScript, Bash, SQL, Java
-* **🌐 Web:** HTML, CSS, React, Vite
-* **📚 Concepts:** SSR (Jinja2, Askama), CSR (React), SSG (Askama), Web frameworks (Axum, Express, Flask), ORMs (Hibernate, SeaORM), session-based auth, password hashing (Argon2), REST APIs
+* **📜 Languages:** Rust, TS/JS, SQL, Java, Python, Bash
+* **🌐 Web frameworks:** Axum, Express, Flask
 * **☁️ Cloud:** AWS (EC2, IAM)
-* **⚙️ DevOps:** Git, GitHub, GitHub Actions, Woodpecker CI
-* **🎩 Operating systems:** Fedora Linux, RHEL
+* **⚙️ CI/CD:** Git, GitHub, GitHub Actions, Woodpecker CI
+* **🎩 Operating systems:** Fedora Linux, RHEL, Amazon Linux, Windows
 * **🚪 Reverse proxy:** Nginx
 * **📦 Containerisation:** Podman
-* **🧪 Benchmarking:** wrk
 * **🗄️ Databases:** PostgreSQL, MongoDB
+* **🗃️ Data access:** Hibernate, SeaORM
 * **📊 Observability:** Prometheus, VictoriaMetrics, Grafana
+* **🔐 Security:** Session-based authentication, password hashing (Argon2)
+* **🖼️ Rendering:** SSR (Jinja2, Askama, EJS), CSR (React), SSG (Askama)
+* **🔌 APIs:** REST, HTTP, JSON
+* **🧪 Benchmarking:** wrk
