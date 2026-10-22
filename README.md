@@ -14,4 +14,5 @@
 * **🖼️ Rendering:** SSR (Jinja2, Askama, EJS), CSR (React), SSG (Askama)
 * **🔌 APIs:** REST, HTTP, JSON
 * **🧪 Benchmarking:** wrk
+* **🏗️ Infrastructure as Code (IaC):** Terraform
 * **🔎 SEO:** SEO titles, meta descriptions, canonical URLs, sitemap generation, robots.txt
