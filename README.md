@@ -1,8 +1,8 @@
 # 👋 Vitor Curado
 
-* **📜 Languages:** Rust, TS/JS, SQL, Java, Python, Bash
+* **📜 Languages:** Rust, TS/JS, Java, Python, SQL, Bash
 * **🌐 Web frameworks:** Axum, Express, Flask
-* **☁️ Cloud:** AWS (IAM, EC2 Graviton/ARM64)
+* **☁️ Cloud:** AWS (IAM, EC2 Graviton/ARM64), DigitalOcean (Droplets)
 * **⚙️ CI/CD:** Git, GitHub, GitHub Actions, Woodpecker CI
 * **🎩 Operating systems:** Fedora Linux, RHEL, Amazon Linux, Windows
 * **🚪 Reverse proxy:** Nginx
